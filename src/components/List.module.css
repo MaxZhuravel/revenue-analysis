@@ -1,0 +1,8 @@
+.List{
+    width: 1170px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #E5E7EB;
+    border-radius: 8px;
+}

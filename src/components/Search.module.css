@@ -1,0 +1,22 @@
+.wrap{
+    width: 1170px;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.input-field{
+    display: flex;
+    flex-direction: row;
+}
+.input{
+    width: 320px;
+    height: 40px;
+    background: #F9FAFB;
+    border: 1px solid #E5E7EB;
+    border-radius: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+}

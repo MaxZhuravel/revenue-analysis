@@ -1,0 +1,51 @@
+.CellName{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 255px;
+    padding-left: 24px;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
+.CellDate{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 720px;
+    padding-left: 24px;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #6B7280;
+}
+.CellStatusActive{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 200px;
+    padding-left: 24px;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #5D5FEF;
+}
+.CellStatusDisable{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    width: 200px;
+    padding-left: 24px;
+    font-family: 'Inter';
+    font-weight: 500;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 20px;
+    color: #EF5DA8;
+}
